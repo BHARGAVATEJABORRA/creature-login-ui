@@ -3,7 +3,7 @@
 
 ![React](https://img.shields.io/badge/React-18-blue) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![GSAP](https://img.shields.io/badge/GSAP-3.13-green) ![Progress](https://img.shields.io/badge/progress-68%25-orange)
 
-**🔗 Live Demo:** [Coming Soon - GitHub Pages](https://BHARGAVATEJABORRA.github.io/creature-login-ui/)
+**🔗 Live Demo:** [GitHub Pages](https://bhargavatejaborra.github.io/creature-login-ui/)
 
 ---
 
