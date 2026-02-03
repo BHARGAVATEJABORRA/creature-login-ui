@@ -6,7 +6,7 @@
 **🔗 Live Demo:** [GitHub Pages](https://bhargavatejaborra.github.io/creature-login-ui/)
 
 ---
-
+ 
 ## What It Is
 
 A React login page where 4 animated creatures watch you type. Their eyes follow your mouse, they lean toward the input field you're typing in, and they react to your password strength.
